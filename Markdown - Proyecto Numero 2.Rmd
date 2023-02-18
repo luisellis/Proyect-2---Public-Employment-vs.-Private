@@ -186,3 +186,9 @@ scales::percent(89742/76852-1)
 ```
 
 Ha crecido un 17% not bad.
+
+Fuentes:
+
+<https://tss.gob.do/tableros-interactivos.html>
+
+<https://app.powerbi.com/view?r=eyJrIjoiMWEyZGMyZmYtNWI5Yy00MjE1LWIxZWEtNDYzN2JlNzkyZmUxIiwidCI6IjY1OGYzMWY0LTg5YjEtNDJlMC1iYWNlLWYzMTkwNDBkZmRmOSIsImMiOjF9>
