@@ -20,7 +20,7 @@ Es agradable a la vista realmente, algunas cositas que personalmente agregaría;
 
 ### Los reportes:
 
-![Landing Page](images/Pagina%20Uno.PNG)
+![Landing Page](Pagina%20Uno.PNG)
 
 Sé que PowerBI limita mucho los espacios por como funciona la paginación, pero ese loguito y yo no somos muy amigos. Otro punto son los formatos, los datos tienen formato Europeo, puntos en los miles y coma en los decimales, digamos que esa no es la norma aquí en República Dominicana. Aunque en la defensa de quien sea que desarrollo eso, aquí no hay ninguna normativa clara, más no puedo negar que el contexto es importante.
 
@@ -84,7 +84,7 @@ Hay más reportes pero por lo menos para esta parte no iré sobre todos los deta
 
 -   Graficos de barras con 2 categorías, mucho espacio poca información.
 
-#### Reporte \# 4 {#Reporte #4}
+#### Reporte \# 4 {#4}
 
 ![#Reporte #4](images/paste-8D2A484B.png)
 
@@ -179,3 +179,9 @@ scales::percent(89742/76852-1)
 ```
 
 Ha crecido un 17% not bad.
+
+Fuentes:
+
+<https://tss.gob.do/tableros-interactivos.html>
+
+<https://app.powerbi.com/view?r=eyJrIjoiMWEyZGMyZmYtNWI5Yy00MjE1LWIxZWEtNDYzN2JlNzkyZmUxIiwidCI6IjY1OGYzMWY0LTg5YjEtNDJlMC1iYWNlLWYzMTkwNDBkZmRmOSIsImMiOjF9>
